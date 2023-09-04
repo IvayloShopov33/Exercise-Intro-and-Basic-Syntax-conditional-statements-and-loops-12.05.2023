@@ -32,7 +32,7 @@ namespace _02._Division
                 Console.WriteLine("Not divisible");
             }
             
-            // това беше първото ми решение
+            //This code below was my first solution of the task
            // int number = int.Parse(Console.ReadLine());
            // if (number%2==0 && number%3==0 && number%6==0 && number%7==0 && number%10==0)
            //     Console.WriteLine("The number is divisible by 10");
